@@ -1,0 +1,65 @@
+#container
+{
+    width: 475px;
+    height: 552px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgb(12, 178, 184);
+    padding-left: 30px;
+}
+
+#getcenter
+{
+    padding-left: 30px;
+}
+
+#cm
+{
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+}
+
+#kg
+{
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+}
+
+#weightguide
+{
+    margin-left: 35px;
+    margin-top: 30px;
+}
+
+#result
+{
+    font-size: 35px;
+    margin-left: 150px;
+    color: blue;
+}
+
+#submit
+{
+    width: 150px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: blue;
+    color: aliceblue;
+    font-size: 25px;
+}
+
+body
+{
+    background-color: rgb(75, 74, 68);
+}
+
+h1
+{
+    text-align: center;
+    padding-top: 50px;
+}
